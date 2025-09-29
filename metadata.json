@@ -1,0 +1,5 @@
+{
+  "name": "Project Health Gamification",
+  "description": "A project management tool that adds a light layer of gamification to task completion and project metrics. Teams earn badges or points for hitting milestones, completing tasks under budget, or providing excellent documentation to maintain morale and engagement.",
+  "requestFramePermissions": []
+}
